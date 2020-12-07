@@ -6,7 +6,8 @@
 事前準備は以下の通り．
 
 必要な物
-Raspberry Pi3 Model B ×1
+
+Raspberry Pi3 Model B ×1                                                 
 LANケーブル ×1
 Wifiルータ ×1
 microSD ×1
