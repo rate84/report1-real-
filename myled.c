@@ -7,7 +7,7 @@
 #include<linux/delay.h>
 
 MODULE_AUTHOR("Ryohei Terai + Ryuichi Ueda");
-MODULE_DESCRIPTION("LED device_drive");
+MODULE_DESCRIPTION("LED device_driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
 
