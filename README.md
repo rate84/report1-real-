@@ -29,6 +29,9 @@ echo 1 > /dev/myled0(LEDが点灯)
 echo 2 > /dev/myled0(LEDが点滅)                                             
 echo 0 > /dev/myled0(LEDが消灯)                                             
 
+実際の動作は以下になります．
+https://youtu.be/Tb3HN7S9yrY
+
 面白いものは作成できませんでした．                                           
 ライセンス等不備があるかと思いますがこれにて提出させていただきます．                
 提出遅れて申し訳ありません．
