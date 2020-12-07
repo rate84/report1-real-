@@ -12,6 +12,7 @@ LANケーブル ×1
 Wifiルータ ×1
 microSD ×1
 USB電源ケーブル(TypeA-MicroB) ×1
+ノートPC　又は　モニター ×1
 LED ×1
 220Ωの抵抗 ×1
 ジャンプワイヤー ×2
