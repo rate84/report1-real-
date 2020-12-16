@@ -9,7 +9,7 @@
 
 MODULE_AUTHOR("Ryohei Tarei + Ryuichi Ueda");
 MODULE_DESCRIPTION("LED device_driver");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("MIT");
 MODULE_VERSION("0.1");
 
 static dev_t dev;
